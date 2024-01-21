@@ -1,4 +1,4 @@
-import { UserButton } from "@clerk/nextjs";
+//import { UserButton } from "@clerk/nextjs";
 import { ArrowRightCircleIcon } from "@heroicons/react/24/outline";
 import Link from "next/link";
 
@@ -16,7 +16,7 @@ export default function Home() {
         52 WEEKS SAVINGS CHALLENGE 2024!
         </p>
         <Link href="/dashboard" className="flex cursor-pointer bg-lime-500 p-5 w-fit">
-          Try it for free!
+          Get Started!
           <ArrowRightCircleIcon className="ml-10" />
         </Link>
       </div>
@@ -85,7 +85,7 @@ The app provider reserves the right to release updates, improvements, or mainten
 Liability Limitations:
 The app provider shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use of the SACCO Management App.
 By using this app, users acknowledge that they have read, understood, and agreed to the terms outlined in this disclaimer. The app provider may update the disclaimer as needed, and users are advised to review it periodically for any changes.</p>
-      <UserButton/>
+     
     </main>
   )
 }

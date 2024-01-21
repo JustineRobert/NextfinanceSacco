@@ -40,7 +40,7 @@ const products = [
 ];
 
 const callsToAction = [
-  { name: "See Demo Booking", href: "https://youtu.be/W4YozokJjOA", icon: PlayCircleIcon },
+  { name: "See Demo On How to Save", href: "https://youtu.be/W4YozokJjOA", icon: PlayCircleIcon },
   { name: "Contact Support", href: "#", icon: PhoneIcon },
 ];
 
