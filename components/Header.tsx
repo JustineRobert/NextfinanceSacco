@@ -26,8 +26,8 @@ const products = [
     icon: HomeIcon,
   },
   {
-    name: "Book a Home Land",
-    description: "Speak directly to your Land Owners about owning Land",
+    name: "SMS Reminder",
+    description: "Send an SMS to Members",
     href: "#",
     icon: PaperAirplaneIcon,
   },
